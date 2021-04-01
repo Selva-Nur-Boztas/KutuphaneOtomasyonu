@@ -1,0 +1,699 @@
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Downloads\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\otomasyon\otomasyon\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Downloads\kütüphaneotomasyonu\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu-son\kütüphaneotomasyonu son\kütüphaneotomasyonu son\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphane otomasyonu.mdf
+L:\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphane otomasyonu_log.ldf
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu1\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Lab-01\Downloads\kütüphaneotomasyonu2\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu3\kütüphaneotomasyonu3\kütüphaneotomasyonu2\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu4\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu4\kütüphaneotomasyonu5\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu6\kütüphaneotomasyonu6\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\projeler\kütüphaneotomasyonu7\kütüphaneotomasyonu7\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu9\kütüphaneotomasyonu9\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu10\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu11\kütüphaneotomasyonu11\kütüphaneotomasyonu10\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu13\kütüphaneotomasyonu12\kütüphaneotomasyonu12\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu14\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Lab-01\Desktop\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu17\kütüphaneotomasyonu16\kütüphaneotomasyonu15\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Desktop\kütüphaneotomasyonu19\kütüphaneotomasyonu18\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\merve\Downloads\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21-1\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21-1\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21-1\kütüphaneotomasyonu21 (1)\kütüphaneotomasyonu20\kütüphaneotomasyonu20\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\okul01\Downloads\kütüphaneotomasyonu21\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu21\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu22\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu25\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\Selvanur\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\merve\Desktop\kütüphaneotomasyonu26\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.Cache
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojAssemblyReference.cache
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.cache
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\selva\Desktop\kütüphaneotomasyonu27\kütüphaneotomasyonu27\kütüphaneotomasyonu26\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe.config
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.exe
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\bin\Debug\kütüphaneotomasyonu.pdb
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csprojAssemblyReference.cache
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.anamenü.resources
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kitapkayıt.resources
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kullaniciigiris.resources
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.kütüphanekayıt.resources
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.personelgirisi.resources
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.Properties.Resources.resources
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.stok.resources
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.yazarkayıt.resources
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.ödunc.resources
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.üyegirisi.resources
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.GenerateResource.cache
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.exe
+C:\Users\selva\Desktop\Kütüphane_Otomasyonu\kütüphaneotomasyonu\obj\Debug\kütüphaneotomasyonu.pdb
